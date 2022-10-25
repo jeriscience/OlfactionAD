@@ -28,10 +28,10 @@ git clone https://github.com/jeriscience/OlfactionAD.git
 * python train_pred_mixture_lasso.py
 
 ## 5. Use maximum values instead of average when calculating perceptual values for mixtures
-python pred_percept_single_elastic_max.py
-python train_pred_mixture_lasso_max.py
+* python pred_percept_single_elastic_max.py
+* python train_pred_mixture_lasso_max.py
 
 ## 6. Investigate the relationship between number of features (alpha in Lasso) and predictive performance
-python train_pred_mixture_lasso_alpha.py
+* python train_pred_mixture_lasso_alpha.py
 
 
